@@ -1,0 +1,16 @@
+.fcontainer{
+    display: flex;
+    height: 40vh;
+    border: 2px solid red;
+    align-items: center;
+    /* justify-content: center; */
+
+}
+.fitems{
+width: 100px;
+height: 100px;
+background-color: rebeccapurple;
+margin: 10px;
+color: white;
+border: 2px solid red;
+}
